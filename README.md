@@ -1,7 +1,7 @@
 # PowerBI
-## Interactive Dashboard /b
-Total Casualties and total accident values for current year and YoY growth
-Total casualties byacciden severity for current year and YoY growth
+## Interactive Dashboard 
+Total Casualties and total accident values for current year and YoY growth /b
+Total casualties byacciden severity for current year and YoY growth /b
 Total Casualties with respect to vehicle type for current year
 Monthly trend showing comparision of casualties for current and previous year
 Casualties by road type for current year
